@@ -997,3 +997,229 @@ vim.g.everforest_better_performance = 1
 -- vim.cmd('colorscheme everforest')
 vim.cmd('colorscheme bluloco')
 @end
+
+  2026-07-19
+@code lua
+
+-- ========================================================================== --
+-- 1. BASE SETTINGS & CLIPBOARD                                               --
+-- ========================================================================== --
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+
+local opt = vim.opt
+opt.number = true          -- Show line numbers
+opt.relativenumber = true  -- Relative line numbers for easier jumping
+opt.splitright = true      -- Put new windows right of current
+opt.splitbelow = true      -- Put new windows below current
+opt.expandtab = true       -- Use spaces instead of tabs
+opt.shiftwidth = 4         -- Size of an indent
+opt.tabstop = 4            -- Number of spaces tabs count for
+opt.smartindent = true     -- Insert indents automatically
+opt.ignorecase = true      -- Ignore case in search patterns
+opt.smartcase = true       -- Override ignorecase if search contains capitals
+opt.termguicolors = true   -- True color support
+opt.signcolumn = "yes"     -- Always show the sign column to prevent shifting
+
+-- Sync clipboard with system clipboard flawlessly
+opt.clipboard = "unnamedplus"
+
+-- Fix common clipboard delay/bug issues on some Linux environments
+if vim.fn.has("unix") == 1 then
+    vim.g.clipboard = {
+        name = 'xsel_override',
+        copy = {
+            ['+'] = 'xsel --nodetach -i -b',
+            ['*'] = 'xsel --nodetach -i -p',
+        },
+        paste = {
+            ['+'] = 'xsel -o -b',
+            ['*'] = 'xsel -o -p',
+        },
+        cache_enabled = 1,
+    }
+end
+
+-- ========================================================================== --
+-- 2. LAZY.NVIM BOOTSTRAP                                                     --
+-- ========================================================================== --
+local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
+if not vim.loop.fs_stat(lazypath) then
+  vim.fn.system({
+    "git", "clone", "--filter=blob:none",
+    "https://github.com", "--branch=stable", lazypath,
+  })
+end
+vim.opt.rtp:prepend(lazypath)
+
+-- ========================================================================== --
+-- 3. PLUGIN DEFINITIONS & CONFIGURATION                                      --
+-- ========================================================================== --
+require("lazy").setup({
+{
+  "dhruvasagar/vim-table-mode",
+  ft = { "norg", "markdown" }, -- Lazy load only on note files
+  init = function()
+    -- Set the table corner separator to match Neorg/Markdown styles
+    vim.g.table_mode_corner = '|'
+  end
+},
+
+
+  -- Paste the ma.nvim block inside the setup array:
+  {
+    "gmcusaro/ma.nvim",
+    version = "*",
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+      "nvim-telescope/telescope.nvim",
+      { "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
+      { "nvim-tree/nvim-web-devicons", opts = {} },
+    },
+    opts = {
+      vaults = {
+        { name = "My Notes", path = "~/Ma-Notes" },
+      },
+    },
+  },
+
+
+
+    -- Core Treesitter (Required for Neorg & Render-Markdown)
+    {
+        "nvim-treesitter/nvim-treesitter",
+        build = ":TSUpdate",
+        config = function()
+            require("nvim-treesitter.config").setup({
+                ensure_installed = { "lua", "markdown", "markdown_inline", "norg" },
+                highlight = { enable = true },
+            })
+        end,
+    },
+
+    -- Themes
+    {
+        "eldritch-theme/eldritch.nvim",
+        lazy = false,
+        priority = 1000,
+        opts = {
+            transparent = true, -- Built-in transparency for Eldritch
+        },
+    },
+    {
+        "uloco/bluloco.nvim",
+        lazy = false,
+        priority = 1000,
+        dependencies = { "rktjmp/lush.nvim" },
+        opts = {
+            transparency = true, -- Built-in transparency for Bluloco
+        },
+    },
+
+    -- Render Markdown Plugin
+    {
+        "MeanderingProgrammer/render-markdown.nvim",
+        dependencies = { "nvim-treesitter/nvim-treesitter", "nvim-tree/nvim-web-devicons" },
+        ft = { "markdown", "norg" }, -- Let it load on Neorg files too if desired
+        opts = {    
+            -- Disable the internal table styling components completely
+            pipe_table = {
+                enabled = false,
+            },
+        },
+    },
+
+    -- Neorg Notes Engine
+    {
+        "nvim-neorg/neorg",
+        lazy = false,
+        version = "*", -- Pin to latest stable release
+        config = function()
+            require("neorg").setup({
+                load = {
+                    ["core.defaults"] = {},
+                    ["core.concealer"] = {}, -- Enables icons and formatting
+                    ["core.dirman"] = {      -- Workspace manager
+                        config = {
+                            workspaces = {
+                                notes = "~/Notes/notes",
+                                conlang = "~/Notes/conlang",
+                            },
+                            default_workspace = "notes",
+                        },
+                    },
+                },
+            })
+        end,
+    },
+})
+
+-- ========================================================================== --
+-- 4. THEME & TRANSPARENCY OVERRIDES                                          --
+-- ========================================================================== --
+-- Function to force clear backgrounds if a theme's native transparency slips
+local function apply_transparency()
+    local hl_groups = { "Normal", "NormalFloat", "SignColumn", "LineNr", "RelativeLineNr" }
+    for _, group in ipairs(hl_groups) do
+        vim.api.nvim_set_hl(0, group, { bg = "NONE", ctermbg = "NONE" })
+    end
+end
+
+-- Create an autocommand to preserve transparency whenever a theme loads
+vim.api.nvim_create_autocmd("ColorScheme", {
+    pattern = "*",
+    callback = apply_transparency,
+})
+
+-- Activate your preferred theme by default (swap to 'bluloco' if desired)
+vim.cmd([[colorscheme bluloco]])
+
+-- Helper function for clean keybinding creation
+local map = vim.keymap.set
+
+-- ma.nvim bindings
+map("n", "<leader>mf", "<cmd>Telescope find_files cwd=~/Ma-Notes<cr>", { desc = "Ma: Find notes" })
+map("n", "<leader>mg", "<cmd>Telescope live_grep cwd=~/Ma-Notes<cr>", { desc = "Ma: Grep notes" })
+
+-- Visual Mode Markdown Helpers
+map("v", "<leader>b", "c**<C-r>\"**<ESC>", { desc = "Markdown: Bold Selection" })
+map("v", "<leader>i", "c*<C-r>\"*<ESC>", { desc = "Markdown: Italic Selection" })
+
+local builtin = require('telescope.builtin')
+
+vim.keymap.set('n', 'fH', function() 
+  require('telescope.builtin').find_files({ 
+    hidden = true, 
+    file_ignore_patterns = { "^%.git/" } 
+  }) 
+end, { desc = 'Telescope: Find Hidden Files (No Git Internal)' })
+
+
+-- Map standard 2-character Telescope combinations
+vim.keymap.set('n', 'ff', builtin.find_files, { desc = 'Telescope: Find Files' })
+vim.keymap.set('n', 'fg', builtin.live_grep, { desc = 'Telescope: Live Grep' })
+vim.keymap.set('n', 'fb', builtin.buffers, { desc = 'Telescope: Open Buffers' })
+vim.keymap.set('n', 'fh', builtin.help_tags, { desc = 'Telescope: Help Tags' })
+vim.keymap.set('n', 'fo', builtin.oldfiles, { desc = 'Telescope: Recent Files' })
+vim.keymap.set('n', 'fc', builtin.current_buffer_fuzzy_find, { desc = 'Telescope: Current File Search' })
+
+vim.keymap.set('n', '<leader>il', '<cmd>edit ~/.config/nvim/init.lua<cr>', { desc = 'open init.lua' } )
+
+vim.keymap.set('n', '<leader>ni', '<cmd>Neorg index<cr>', { desc = 'Open Neorg Index file' } )
+
+-- ========================================================================== --
+-- 6. INSTANT INSERT TEXT REPLACEMENTS (Triggers instantly upon typing)       --
+-- ========================================================================== --
+local instant = function(lhs, rhs)
+  vim.keymap.set("i", lhs, rhs, { remap = false, silent = true })
+end
+
+-- Vowel triggers (Type AAA, instantly transforms into â)
+instant("AAA", "â")
+instant("EEE", "ê")
+instant("III", "î")
+instant("OOO", "ô")
+instant("UUU", "û")
+@end
+
+

@@ -4,12 +4,12 @@ description:
 authors: rachel
 categories: 
 created: 2026-06-16T18:41:03-0500
-updated: 2026-06-16T18:44:18-0500
+updated: 2026-07-19T15:24:47-0500
 version: 1.1.1
 @end
 
 tags: #fish #tech #dotfile
-{:../tech-index:}
+
 
 
 * CONFIG.FISH
@@ -53,3 +53,29 @@ end
 
 end
 ```
+====
+
+  2026-07-19
+  ```
+
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+
+    # disable greeting
+    set fish_greeting
+
+	set GTK_THEME "Adwaita-dark"
+
+
+    source ~/.alias
+    fish_vi_key_bindings
+    fish_vi_cursor
+    
+    zoxide init fish | source
+    source /usr/share/fzf/key-bindings.fish
+        fzf_key_bindings
+
+end
+  ```
+  ====
+
