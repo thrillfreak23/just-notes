@@ -1,0 +1,23 @@
+@document.meta
+title: dot-nanorc
+description: ~/.nb/home/tech/dot-nanorc.norg
+authors: rachel
+categories: 
+created: 2026-06-16T18:37:28-0500
+updated: 2026-06-16T18:38:43-0500
+version: 1.1.1
+@end
+
+tags: #dotfile #nano 
+
+
+# dot-nanorc.norg
+
+#dotfile #nano #tech
+
+
+set softwrap       # Wraps long lines neatly to fit your phone screen
+set linenumbers    # Shows line numbers on the side
+set tabsize 4      # Sets a clean indent spacing
+set smooth         # Smooth scrolls line-by-line instead of half-screens
+

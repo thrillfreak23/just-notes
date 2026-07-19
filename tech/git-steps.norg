@@ -1,0 +1,48 @@
+@document.meta
+title: git-steps
+description: 
+authors: rachel
+categories: 
+created: 2026-06-16T18:46:20-0500
+updated: 2026-07-11T11:12:23-0500
+version: 1.1.1
+@end
+
+tags: #git #tech #howto
+
+
+* Git Steps
+
+
+2026-06-14.
+
+git init
+git branch -M main
+git status
+git add .
+git commit -m ""
+git push
+
+
+##### HOW TO CREATE A BRAND NEW REPO
+0. after creating a new empty repo (e.g., "saint-eyeball") on the github website:
+1. create new directory and put a file in it.
+2. git init
+3. git branch -M main
+4. create .gitignore: put the names of possible binaries here so they do not get uploaded. a.out. do not put the directory name here.
+5. git remote add origin git@github.com:thrillfreak23/saint-eyeball.git
+  - ***Nota Bene***: *do not use https@!!! Use git@!!!*
+6. git add .
+7. git commit -m "comment goes here"
+8. git push -u origin main
+9. ***git push*** :: after the first time if the name "main" is used
+
+##### The Basic Process after inital creation
+1. from the Linux command line
+2. git add .
+3. git commit -m "Manual Update"
+4. git push 
+
+  ##### How to clone one of my own repos
+  1. Example: git clone git@github.com:thrillfreak23/Ma-Notes.git ~/notes/ma-notes 
+  2. This syntax uses my ssh authentication.
