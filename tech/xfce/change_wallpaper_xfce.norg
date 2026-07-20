@@ -1,0 +1,5 @@
+how to change xfce wallpaper or desktop background from the cli:
+tags: #xfce #wallpaper
+
+Example:
+xfconf-query -c xfce4-desktop -p "xfce4-desktop" -s /usr/share/backgrounds/xfce/Cthulhu3.png

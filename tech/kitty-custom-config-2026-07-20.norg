@@ -1,0 +1,40 @@
+### my custom kitty config
+# include Eldritch-dark.conf
+include Eldritch.conf
+
+# BEGIN_KITTY_FONTS
+font_family      family='SauceCodePro Nerd Font' style=SemiBold
+bold_font        auto
+italic_font      family='SauceCodePro Nerd Font' style='SemiBold Italic'
+bold_italic_font family='SauceCodePro Nerd Font' style='Bold Italic'
+# END_KITTY_FONTS
+
+
+font_size 11.0
+modify_font cell_height +5px
+
+cursor_trail 10
+cursor_trail_decay 0.05 0.2
+cursor_trail_start_threshold 3
+
+scrollback_lines 5000
+copy_on_select clipboard
+
+strip_trailing_spaces smart
+focus_follows_mouse yes
+
+mouse_map right press ungrabbed paste_from_clipboard
+
+enable_audio_bell no
+visual_bell_duration 0.1
+window_alert_on_bell no
+
+remember_window_size  yes
+remember_window_position yes
+window_padding_width 5
+
+tab_bar_edge top
+tab_bar_style slant
+
+background_opacity 0.85
+background_blur 1

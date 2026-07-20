@@ -4,10 +4,95 @@ description: everything Jagarôth
 authors: rachel
 categories: []
 created: 2026-07-19
-updated: 2026-07-19T16:13:40-0500
+updated: 2026-07-19T20:50:19-0500
 version: 3.0.0
 @end
 
 
+* JAGARÔth :: a language of the Low-Canals Region of Mars
+** quick impressionistic notes:
+   - a language and a people, a time and place, of ill repute
+   - drugs, smuggling, Galactic contraband, forbidden technologies, reticulum addiction, repressive religion, and poverty
+   - planet-wide Iron Age civilization adulterated with high tech, markedly so here in the Low-Canals Region
+   - the Holy Martian Catholic Church
+   - the biggest spaceport on Mars
+   - in recent millennia a major population center, latifundia, manufactoria
+   - surrounded by howling wilderness but self-contained, a world unto itself 
 
+
+* LEXICON :: an informal dictionary of the Jagarôth language
+** Legend
+   - v :: verbal root
+   - n :: nominal
+   - adj :: adjective
+   - adv :: adverb
+   - pcpl :: participle
+   - conj :: conjunction
+
+** THE WORDS
+    - Q is missing intentionally; the letter does not occur in transliterated Jagarôth
+    - field1 :: field2 :: field3 ::field4
+    - field1 :: word
+    - field2 :: part of speech
+    - field3 :: definition
+    - field4 :: comment (and valency if /v/)
+
+**** A
+**** B
+     $ bal :: n :: a god, not used for the "God" of the Holy Martian Catholics ::
+     $ bôg :: n :: evil spirit, ghost ::
+     $ bor :: adv :: not ::
+     $ bûbur :: n :: mouth ::
+**** C
+**** D
+**** D
+**** E
+**** F
+     $ flet :: adv :: forces progressive aspect; yet, still ::
+**** G
+     $ gakt :: v :: to dance ::
+     $ gîgôk :: n :: the Martian runnerbat, /alias/ the landshark ::
+     $ gîm :: adv :: /Sp. mucho/ ::
+     $ gûbur :: n :: a sentient of low estate and faculties ::
+**** H
+     $ homin :: n :: specimen of genus /homo/ :: 
+     $ hûlur :: n :: a cat
+**** I
+     $ î :: v :: the anomalous verb, Sp. /hay/, BE :: first word of clause; phonetically anomalous 
+     $ îax :: v :: was, were :: only the perfective (ie, past) sense of the past pcpl remains; anomalous verb /î/ + passive pcpl suffix -ax; 
+     $ îbor :: v :: :: is not :: anomalous verb î + bor /not/ 
+**** J
+     $ jûjor :: particle :: introduces a question :: occurs first in a sentence
+**** K
+     $ kokon :: n :: maize, an ear of maize
+**** L
+**** M
+     $ mebel :: n :: girl :: 
+**** N
+**** N
+     $ neben :: n :: a bean
+**** O
+     $ Obâr :: n :: the Emperor of Mars :: phonetically anomalous word beginning with vowel; 
+**** P
+**** R
+**** S
+     $ shîdhid :: adj :: pale, pallid, pasty :: /NOTE: native adjectives (adjectives without the -id) take the adjectival ending -id, usually/
+**** T
+     $ tan :: n :: fellow, adult male homin :: informal in origin, now used in all but the most formal speech
+     $ tanid :: adj :: masculine, manly, virile
+     $ -thor :: conj :: and ::
+     $ topap :: n :: a potato
+**** U
+**** V
+     $ vîl :: n :: the color yellow ::
+     $ vîlid :: adj :: yellow
+**** W
+**** X
+**** Y
+**** Z
+**** misc
+
+** GRAMMAR :: unprofessional, non-academic, and not very good
+   **** 
+*** VERBS
 
