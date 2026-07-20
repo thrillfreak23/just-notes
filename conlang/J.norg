@@ -4,7 +4,7 @@ description: everything Jagarôth
 authors: rachel
 categories: []
 created: 2026-07-19
-updated: 2026-07-19T20:50:19-0500
+updated: 2026-07-20T16:07:02-0500
 version: 3.0.0
 @end
 
@@ -29,14 +29,15 @@ version: 3.0.0
    - pcpl :: participle
    - conj :: conjunction
 
-** THE WORDS
-    - Q is missing intentionally; the letter does not occur in transliterated Jagarôth
-    - field1 :: field2 :: field3 ::field4
-    - field1 :: word
-    - field2 :: part of speech
-    - field3 :: definition
-    - field4 :: comment (and valency if /v/)
+   - Q is missing intentionally; the letter does not occur in transliterated Jagarôth
+   - field1 :: field2 :: field3 :: field4
+   - field1 :: word
+   - field2 :: part of speech
+   - field3 :: definition
+   - field4 :: comment (and valency if /v/)
 
+
+** THE WORDS
 **** A
 **** B
      $ bal :: n :: a god, not used for the "God" of the Holy Martian Catholics ::
@@ -48,27 +49,34 @@ version: 3.0.0
 **** D
 **** E
 **** F
-     $ flet :: adv :: forces progressive aspect; yet, still ::
+     $ flet :: adv :: up to this point in time; also used merely to force progressive aspect; 
 **** G
-     $ gakt :: v :: to dance ::
+     $ gakt :: v :: to dance :: intransitive: S-nom=the dancer
      $ gîgôk :: n :: the Martian runnerbat, /alias/ the landshark ::
      $ gîm :: adv :: /Sp. mucho/ ::
      $ gûbur :: n :: a sentient of low estate and faculties ::
 **** H
+     $ Herôth :: proper n :: the planetoid often known as Sirîz. 
      $ homin :: n :: specimen of genus /homo/ :: 
      $ hûlur :: n :: a cat
 **** I
-     $ î :: v :: the anomalous verb, Sp. /hay/, BE :: first word of clause; phonetically anomalous 
+     $ î :: v :: the anomalous verb, Sp. /hay/, BE :: first word of clause; phonetically anomalous; valency: copula/intransitive
      $ îax :: v :: was, were :: only the perfective (ie, past) sense of the past pcpl remains; anomalous verb /î/ + passive pcpl suffix -ax; 
      $ îbor :: v :: :: is not :: anomalous verb î + bor /not/ 
 **** J
+     $ jed :: adv :: already; also used to force perfective aspect ::
      $ jûjor :: particle :: introduces a question :: occurs first in a sentence
 **** K
+     $ kenet :: n :: a dog ::
+     $ keps :: n :: a moon ::
+     $ kîretên :: n :: the Martian eagle, derived from the Yrthic golden and bald eagles ::
      $ kokon :: n :: maize, an ear of maize
+     $ korith :: n :: the Martian horse {:horse.norg:}[see: horse.norg]
 **** L
 **** M
+     $ Marish :: proper n :: the planet once known as Vînus.
      $ mebel :: n :: girl :: 
-**** N
+     $ môth :: n :: three-dimensional space; outer space ::
 **** N
      $ neben :: n :: a bean
 **** O
@@ -77,16 +85,25 @@ version: 3.0.0
 **** R
 **** S
      $ shîdhid :: adj :: pale, pallid, pasty :: /NOTE: native adjectives (adjectives without the -id) take the adjectival ending -id, usually/
+     $ Skâr :: proper n :: the planet once known as \/ʔʀ:þ\/ or \/ʔɚ:þ\/
+     $ Skârkeps :: proper n :: the enormous satellite of Skâr :: literally "Skarmoon"
 **** T
      $ tan :: n :: fellow, adult male homin :: informal in origin, now used in all but the most formal speech
      $ tanid :: adj :: masculine, manly, virile
      $ -thor :: conj :: and ::
      $ topap :: n :: a potato
+     $ topapid :: adj :: intoxicated or otherwise degraded till humanity itself slips and all see merely a potato, not a man or woman ::
 **** U
 **** V
+     $ vêgor :: n :: the Martian wolf :: 
+     $ vêgorid :: adj :: wolfish, rapacious; used to describe people known as "takers" ::
      $ vîl :: n :: the color yellow ::
-     $ vîlid :: adj :: yellow
+     $ vîlid :: adj :: yellow ::
+     $ vip :: v :: to be fast ::
+     $ vipid :: adj :: fast ::
+     $ vipîm :: adv :: quickly; fast
 **** W
+     $ Wahaz :: proper n :: the planet once known as Mârz. 
 **** X
 **** Y
 **** Z
