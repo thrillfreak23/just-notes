@@ -4,14 +4,14 @@ description: everything Jagarôth
 authors: rachel
 categories: []
 created: 2026-07-19
-updated: 2026-07-20T16:07:02-0500
+updated: 2026-07-21T10:43:09-0500
 version: 3.0.0
 @end
 
 
 * JAGARÔth :: a language of the Low-Canals Region of Mars
 ** quick impressionistic notes:
-   - a language and a people, a time and place, of ill repute
+   - a language, a people, a time and place, of ill repute
    - drugs, smuggling, Galactic contraband, forbidden technologies, reticulum addiction, repressive religion, and poverty
    - planet-wide Iron Age civilization adulterated with high tech, markedly so here in the Low-Canals Region
    - the Holy Martian Catholic Church
@@ -61,7 +61,7 @@ version: 3.0.0
      $ hûlur :: n :: a cat
 **** I
      $ î :: v :: the anomalous verb, Sp. /hay/, BE :: first word of clause; phonetically anomalous; valency: copula/intransitive
-     $ îax :: v :: was, were :: only the perfective (ie, past) sense of the past pcpl remains; anomalous verb /î/ + passive pcpl suffix -ax; 
+     $ îax :: v :: was, were :: only the perfective (effectively, ie amounting to: past) sense of the past pcpl remains; anomalous verb /î/ + passive pcpl suffix -ax; 
      $ îbor :: v :: :: is not :: anomalous verb î + bor /not/ 
 **** J
      $ jed :: adv :: already; also used to force perfective aspect ::
