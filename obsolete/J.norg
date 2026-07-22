@@ -71,17 +71,22 @@ version: 3.0.0
      $ keps :: n :: a moon ::
      $ kîretên :: n :: the Martian eagle, derived from the Yrthic golden and bald eagles ::
      $ kokon :: n :: maize, an ear of maize
-     $ korith :: n :: the Martian horse see footnote ^ horse
+     $ korith :: n :: the Martian horse; see footnote: {^ horse}[HORSE] ::
 **** L
 **** M
      $ Marish :: proper n :: the planet once known as Vînus.
      $ mebel :: n :: girl :: 
+     $ meth :: conj :: or :: 
      $ môth :: n :: three-dimensional space; outer space ::
 **** N
-     $ neben :: n :: a bean
+     $ narl :: n :: a nycthemeron ::
+     $ neben :: n :: a bean ::
 **** O
      $ Obâr :: n :: the Emperor of Mars :: phonetically anomalous word beginning with vowel; 
 **** P
+     $ perd :: v :: destroy; lose
+     $ perdax :: pcpl :: a destroyed one; a lost one ::
+     $ perdaz :: pcpl :: a destroyer ::
 **** R
 **** S
      $ shîdhid :: adj :: pale, pallid, pasty :: /NOTE: native adjectives (adjectives without the -id) take the adjectival ending -id, usually/
@@ -90,6 +95,7 @@ version: 3.0.0
 **** T
      $ tan :: n :: fellow, adult male homin :: informal in origin, now used in all but the most formal speech
      $ tanid :: adj :: masculine, manly, virile
+     $ thaim :: n :: the brain; also, factitiously, the heart or factitious seat of emotion :: literally, the brain
      $ -thor :: conj :: and ::
      $ topap :: n :: a potato
      $ topapid :: adj :: intoxicated or otherwise degraded till humanity itself slips and all see merely a potato, not a man or woman ::
@@ -103,22 +109,25 @@ version: 3.0.0
      $ vipid :: adj :: fast ::
      $ vipîm :: adv :: quickly; fast
 **** W
-     $ Wahaz :: proper n :: the planet once known as Mârz. 
+     $ Wâhaz :: proper n :: the planet once known as Mârz. 
 **** X
 **** Y
 **** Z
 **** misc
 
 ** GRAMMAR :: unprofessional, non-academic, and not very good
-   **** 
+
 *** VERBS
 
 
     ========
 * FOOTNOTES
 ^ horse
-The Martian horse. The obvious redundancy in this simple phrase is that there
-are no living horses located anywhere but upon the surface of Mars itself.  All
-horses are Martian horses.  What was once native to Skâr (mythical Old Yrth
-itself!) is not found there now. 
+  The Martian horse. The obvious redundancy in this simple phrase consists in
+  the fact that there are no living horses located anywhere but upon the
+  surface of Mars itself.  All horses are Martian horses.  What was once native
+  to Skâr (mythical Old Yrth itself!) is not found there now. 
+
+
+
 
