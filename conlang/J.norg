@@ -71,7 +71,7 @@ version: 3.0.0
      $ keps :: n :: a moon ::
      $ kîretên :: n :: the Martian eagle, derived from the Yrthic golden and bald eagles ::
      $ kokon :: n :: maize, an ear of maize
-     $ korith :: n :: the Martian horse {:horse.norg:}[see: horse.norg]
+     $ korith :: n :: the Martian horse see footnote ^ horse
 **** L
 **** M
      $ Marish :: proper n :: the planet once known as Vînus.
@@ -112,4 +112,13 @@ version: 3.0.0
 ** GRAMMAR :: unprofessional, non-academic, and not very good
    **** 
 *** VERBS
+
+
+    ========
+* FOOTNOTES
+^ horse
+The Martian horse. The obvious redundancy in this simple phrase is that there
+are no living horses located anywhere but upon the surface of Mars itself.  All
+horses are Martian horses.  What was once native to Skâr (mythical Old Yrth
+itself!) is not found there now. 
 
