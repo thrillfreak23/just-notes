@@ -1,0 +1,15 @@
+2026-07-24 09:39
+
+# Start Pipewire stack (must be in this order)
+# (sleep 1 && ~/.local/bin/void-pipewire-launcher) &
+#
+#pipewire &
+#sleep 5
+#wireplumber &
+#sleep 3
+#pipewire-pulse &
+pipewire && wireplumber && pipewire-pulse &
+
+this worked when nothing else did, not even gentoo-pipewire-launcher,
+modified and renamed ~/bin/void-pipewire-launcher could lauch it
+correctly. only the above has helped.

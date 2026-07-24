@@ -1,0 +1,19 @@
+2026-07-24 09:45
+
+Sound wasn't working. Google ai said a recent linux update
+could cause the "dummy output" problem. This was how to correct it.
+
+Something about using the old blah blah. 
+
+It seems to be okay this way but i don't know if it's really useful
+or necessary.
+
+@code sh
+rachel@redsandsofmars:~/notes (main)
+$ echo "options snd-hda-intel dmic_detect=0" | sudo tee /etc/modprobe.d/alsa-base.conf
+
+
+rachel@redsandsofmars:~/notes (main)
+$ cat /etc/modprobe.d/alsa-base.conf
+options snd-hda-intel dmic_detect=0
+@end
