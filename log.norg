@@ -5,7 +5,7 @@ description: redsandsofmars sysadmin log
 authors: rachel
 categories: log
 created: 2026-07-24T09:10:00-0500
-updated: 2026-07-24T09:52:53-0500
+updated: 2026-07-25T16:20:41-0500
 version: 1.0.0
 @end
 
@@ -13,7 +13,8 @@ version: 1.0.0
 2026-07-24 09:27. changed autostart.sh so that audio starts like this:
 pipewire && wireplumber && pipewire-pulse &
 - this works and gets rid of the "dummy output" problem
-- it's better to do it this way; think how wireplumber can't start until pipewire has successfully completed
+- it's better to do it this way; think how wireplumber can't start until
+  pipewire has successfully completed
 
 
 2026-07-24 09:49. made this change
@@ -25,4 +26,9 @@ options snd-hda-intel dmic_detect=0
 - see tech.kernel.boot-option-change.norg
 
 
+2026-07-25 14:05. Added repo /etc/xbps.d/voiders-dev-repo.conf. 
 
+2026-07-25 16:20. Added helium nothing-fonts brave-origin, adw-gtk-themes,
+ani-cli, lavat, noctalia, niri, xwayland-satellite xdg-desktop-portal-wlr,
+ImageMagick, libwebp-tools, upower-devel, ddcutil, cliphist, wlsunset,
+helium-browser
