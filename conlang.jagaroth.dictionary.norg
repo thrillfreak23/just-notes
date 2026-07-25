@@ -728,7 +728,10 @@ ___
 
 
   $ bal
-  nominal :: a god
+  nominal :: a demon or ghost
+  ; they are all one pool of evil spirits
+
+  a god
   ;  velem velembalôdh !!
   ;  Blood for the Blood-God!!
 
@@ -748,7 +751,11 @@ ___
   ;  Skulls for the Skull-Throne
 
   $ bôg
-  nominal :: ghost, spirit
+  nominal :: a god, not used for the "God" of the Holy Martian Catholics ::
+  ;  velem velembôgôdh !!
+  ;  Blood for the Blood-God!!
+
+
 
   $ bos
   nominal :: positional noun - BEHIND; the location BEHIND smthg

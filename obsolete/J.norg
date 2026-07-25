@@ -40,8 +40,8 @@ version: 3.0.0
 ** THE WORDS
 **** A
 **** B
-     $ bal :: n :: a god, not used for the "God" of the Holy Martian Catholics ::
-     $ bôg :: n :: evil spirit, ghost ::
+     $ bôg :: n :: a god, not used for the "God" of the Holy Martian Catholics ::
+     $ bal :: n :: evil spirit, ghost ::
      $ bor :: adv :: not ::
      $ bûbur :: n :: mouth ::
 **** C
@@ -49,13 +49,17 @@ version: 3.0.0
 **** D
 **** E
 **** F
-     $ flet :: adv :: up to this point in time; also used merely to force progressive aspect; 
+     $ feletain :: n :: the royal court of a Martian city-state 
+     $ flet :: adv :: still, ongoingly; forces progressive aspect; 
+     $ foifir :: n :: cocaine ::
 **** G
      $ gakt :: v :: to dance :: intransitive: S-nom=the dancer
      $ gîgôk :: n :: the Martian runnerbat, /alias/ the landshark ::
-     $ gîm :: adv :: /Sp. mucho/ ::
+     $ gîm :: adv :: /Sp. mucho/, a lot ::
+     $ gorg :: n :: skull ::
      $ gûbur :: n :: a sentient of low estate and faculties ::
 **** H
+     $ hâham :: n :: a mother ::
      $ Herôth :: proper n :: the planetoid often known as Sirîz. 
      $ homin :: n :: specimen of genus /homo/ :: 
      $ hûlur :: n :: a cat
@@ -89,20 +93,23 @@ version: 3.0.0
      $ perdaz :: pcpl :: a destroyer ::
 **** R
 **** S
+     $ shelel :: adj :: okay :: this adj does /not/ take the suffix /-id/
+     $ shîdh :: n :: paleness, pallidity
      $ shîdhid :: adj :: pale, pallid, pasty :: /NOTE: native adjectives (adjectives without the -id) take the adjectival ending -id, usually/
      $ Skâr :: proper n :: the planet once known as \/ʔʀ:þ\/ or \/ʔɚ:þ\/
-     $ Skârkeps :: proper n :: the enormous satellite of Skâr :: literally "Skarmoon"
+     $ Skârkeps :: proper n :: the enormous satellite of Skâr :: lit. "Skarmoon"
 **** T
      $ tan :: n :: fellow, adult male homin :: informal in origin, now used in all but the most formal speech
      $ tanid :: adj :: masculine, manly, virile
-     $ thaim :: n :: the brain; also, factitiously, the heart or factitious seat of emotion :: literally, the brain
+     $ thaim :: n :: the brain; also, factitiously, the heart or factitious seat of emotion :: lit. the brain
      $ -thor :: conj :: and ::
      $ topap :: n :: a potato
      $ topapid :: adj :: intoxicated or otherwise degraded till humanity itself slips and all see merely a potato, not a man or woman ::
 **** U
 **** V
-     $ vêgor :: n :: the Martian wolf :: 
-     $ vêgorid :: adj :: wolfish, rapacious; used to describe people known as "takers" ::
+     $ vêgor :: n :: the Martian wolf :: used to describe people known as "takers" ::
+     $ vêgorid :: adj :: wolfish, rapacious; 
+     $ velem :: n :: blood ::
      $ vîl :: n :: the color yellow ::
      $ vîlid :: adj :: yellow ::
      $ vip :: v :: to be fast ::
@@ -113,6 +120,7 @@ version: 3.0.0
 **** X
 **** Y
 **** Z
+     $ zakar :: n :: throne
 **** misc
 
 ** GRAMMAR :: unprofessional, non-academic, and not very good
