@@ -1,3 +1,13 @@
 * neolang
 
 root + aspect (mandatory) + tense (mandatory) + person (mandatory in finite verbs)
+
+  z 1st person
+  m 2nd person
+  k 3rd person
+  j
+  b
+  l
+  r
+
+

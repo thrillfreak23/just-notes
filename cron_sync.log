@@ -177,3 +177,14 @@ To github.com:thrillfreak23/just-notes.git
    da1096f..237fb83  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main 8ea7850] automated notes update
+ 4 files changed, 55 insertions(+)
+ create mode 100644 tech.dwm.dwm-dot-desktop.norg
+ create mode 100644 tech.niri.niri-dot-desktop.norg
+ create mode 100644 tech.xinit.dot-xinitrc.norg
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   237fb83..8ea7850  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
