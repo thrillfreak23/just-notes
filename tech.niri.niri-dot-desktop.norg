@@ -1,0 +1,10 @@
+
+@code
+[Desktop Entry]
+Name=Niri
+Comment=A scrollable-tiling Wayland compositor
+# Exec=/usr/bin/niri --session
+Exec=dbus-launch --sh-syntax --exit-with-session /usr/bin/niri
+Type=Application
+DesktopNames=niri
+@end

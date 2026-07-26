@@ -1,0 +1,10 @@
+2026-07-26 11:50
+@code
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dwm
+Comment=Dynamic window manager
+Exec=dbus-launch --sh-syntax --exit-with-session dwm
+Icon=dwm
+Type=XSession
+@end

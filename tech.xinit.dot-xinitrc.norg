@@ -1,0 +1,27 @@
+
+@code
+#!/bin/sh
+
+# 1. Merge system and user X resources (fonts, colors, etc.)
+if [ -f /etc/X11/xinit/.xinitrc.d/* ]; then
+    for f in /etc/X11/xinit/.xinitrc.d/*; do
+        [ -x "$f" ] && . "$f"
+    done
+    unset f
+fi
+
+# 2. Ensure your D-Bus user session is initialized properly for Flatpak
+if [ -z "$DBUS_SESSION_BUS_ADDRESS" ] && [ -x /usr/bin/dbus-launch ]; then
+    eval $(dbus-launch --sh-syntax --exit-with-session)
+fi
+
+# 3. Add background processes here (e.g., status bars, wallpaper)
+# slstatus &
+# feh --bg-fill /path/to/image.jpg &
+
+# 4. Launch your window manager (MUST stay as the last line, without an '&')
+exec dwm
+@end
+
+{:scratchpad.norg:}
+
