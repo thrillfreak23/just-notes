@@ -8,21 +8,53 @@
 
 * consonants
 
-  - p b t d k g m n ŋ l r w y h s z
+** p b t d k g m n ŋ l r w y h s z
 
-  - list of final consonants: m n l r s
+** list of final consonants: m n l r s
 
   - consonants that comprise the second element of a cluster:
   -- l, ...
   - suffix(es) /li, .../ attach(es) to final consonants of predicates
 
 
-  $ haba
-  predicant
+
+* consonant clusters
+
+  b p d t g k ++ r l
+  s p t k ++ l  
+  p t k ++ r
+
+  r + b p d t g k
 
 
+  - examples
+  -- proto, tro, eletro
 
+* double consonants
+  - Examples: Raggo, 
+
+
+  $ em :: object marker (like toki pona /e/)
+  $ li :: predicate marker (like toki pona /li/)
+  $ biggi :: adj :: big
+  $ pico :: adj :: small
+  $ wan :: number :: one
+  $ an :: singular marker; one, someone, something (pronoun, not number); ens, entis; an existent thing.
+  $ an pico :: a little thing
+  $ cato :: n :: cat
+  $ cano :: v :: 
+  $ celo :: n :: sky, heaven
+
+
+  $ haba :: v :: have
+  
+
+  $ proto :: preposition :: all meanings of accusative, dative, pointing, referencing, measuring, enduring, perlative, etc...
+  $ en :: preposition :: in, on, at
+  $ di :: preposition :: 
+  
 * potential lexicon
+
 haba: verb :: have
 ita: verb :: go
 iza: verb :: is, to be
@@ -34,12 +66,12 @@ o ita!! go!!
 proto: for during
 geba: give
 horo hour
-rago: Rago the language, to speak Rago
+  raggo: Raggo the language, to speak Rago
 ya: yes, to affirm
 si: if (technically a modal like ve and ta)
 den: then (technically a modal like ve and ta)
 tat: that
-  kio: marks yes/no questions; occurs finally
+  kio: marks yes\/no questions; occurs finally
       - tu li rago kio? - Do you speak Rago?
 seme: content question word
 chi: this
