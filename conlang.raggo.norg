@@ -1,24 +1,24 @@
-# ~/notes/conlang.rago.norg
+ ~/notes/conlang.rago.norg
 
 * RAGO: a minimal /lingua franca/ of the legendary future
 
-* vowels
+** vowels
 
   - a e i o u
 
-* consonants
+** consonants
 
-** p b t d k g m n ŋ l r w y h s z
+*** p b t d k g m n ŋ l r w y h s z
 
-** list of final consonants: m n l r s
+*** list of final consonants: m n l r s
 
   - consonants that comprise the second element of a cluster:
-  -- l, ...
+    - l, ...
   - suffix(es) /li, .../ attach(es) to final consonants of predicates
 
 
 
-* consonant clusters
+** consonant clusters
 
   b p d t g k ++ r l
   s p t k ++ l  
@@ -30,29 +30,45 @@
   - examples
   -- proto, tro, eletro
 
-* double consonants
+** double consonants
   - Examples: Raggo, 
 
 
-  $ em :: object marker (like toki pona /e/)
-  $ li :: predicate marker (like toki pona /li/)
-  $ biggi :: adj :: big
-  $ pico :: adj :: small
-  $ wan :: number :: one
-  $ an :: singular marker; one, someone, something (pronoun, not number); ens, entis; an existent thing.
-  $ an pico :: a little thing
-  $ cato :: n :: cat
-  $ cano :: v :: 
-  $ celo :: n :: sky, heaven
+   $ em :: object marker (like toki pona /e/)
+   $ i :: predicate marker (like toki pona /li/)
+   $ biggi :: adj :: big
+   $ pico :: adj :: small
+   $ wan :: number :: one
+   $ wan :: singular marker; one, someone, something (pronoun, not number); ens, entis; an existent thing.
+   $ wan pico :: a little thing, something little
+note why not use wan instead of an
+   $ ni pico :: little things
+   $ cato :: n :: cat
+   $ doggo :: n :: dog
+   $ ni doggo :: n :: dogs, some dogs, the dogs
+   $ celo :: n :: sky, heaven
+   $ rana :: n :: frog
+   $ bufo :: n :: toad
+   $ rato :: n :: rat
+   $ Sol :: N :: the Sun
+   $ Solli, solli :: adj :: solar, of/pertaining to the sun
+   $ nomen :: n :: name
+
+  - nomen mili i Rachel /rakɛl/
 
 
-  $ haba :: v :: have
+  haba :: v :: have
   
 
-  $ proto :: preposition :: all meanings of accusative, dative, pointing, referencing, measuring, enduring, perlative, etc...
-  $ en :: preposition :: in, on, at
-  $ di :: preposition :: 
+  ni :: fore-marker :: plural marker
+  proto :: preposition :: all meanings of accusative, dative, pointing, referencing, measuring, enduring, perlative, etc...
+  en :: preposition :: in, on, at
+  es :: preposition :: 's - possessor es possessed -- the possessed is the core argument, the "possesor es" is a preposed modifier phrase
+  per :: preposition :: instrumental meanings
   
+  ========
+
+
 * potential lexicon
 
 haba: verb :: have
