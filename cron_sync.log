@@ -244,3 +244,12 @@ To github.com:thrillfreak23/just-notes.git
    51436b5..a2fe0fe  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main a3fb7cc] automated notes update
+ 3 files changed, 88 insertions(+), 24 deletions(-)
+ create mode 100644 phonemes.txt
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   a2fe0fe..a3fb7cc  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
