@@ -1,13 +1,56 @@
 * neolang
 
-root + aspect (mandatory) + tense (mandatory) + person (mandatory in finite verbs)
+** the form: modal + aspect (mandatory) + tense (mandatory) + person (mandatory in finite verbs) + root
 
-  z 1st person
-  m 2nd person
-  k 3rd person
-  j
-  b
-  l
-  r
+** person markers
+  |----|---------------------|------|-------------------|
+  | ze | 1st person singular | zeze | 1st person plural |
+  | me | 2nd person singular | meme | 2nd person plural |
+  | te | 3rd person singular | keke | 3rd  personplural |
+  |----|---------------------|------|-------------------|
+
+** tense markers
+  | ----- | --------- |
+  | tar   | past      |
+  | 0     | nonpast   |
+  |-------|-----------|
+
+** aspect markers
+   |-------------|-----|
+   | simple      | 0   |
+   | progressive | ama |
+   | perfective  | iza |
+   | inchoative  | ono |
+   | cessative   | gu  |
+   | habitual    | ben |
+   |-------------|-----|
+
+** mode markers
+   |------|----------|--------------|
+   | aba  | finna    | intentive    |
+   | hor  | tryna    | conative     |
+   | fi   | wanna    | desiderative |
+   | mugu | need to  | necessitive  |
+   | ket  | oughta   | obligative   |
+   | gib  | can      | abilitive    |
+   | nana | maybe    | hypothetical |
+   | pu   | negative | negative     |
+   |------|----------|--------------|
 
 
+
+   gar :: v :: see
+   baj :: v :: throw
+   jag :: v :: hit
+   kal :: v :: run
+   bor :: v :: feel love towards
+   nir :: v :: to be at (a location)
+   nun :: v :: hold, hold on to
+
+   tartegar :: past.3s.see :: she saw
+   tartetegar :: past.3p.see :: they saw
+   izatartetegar :: perfective.past.3p.see :: they have seen
+   punizatartetegar :: negative.perfective.past.3p.see :: they have not seen
+
+   ketezekal :: I ought to run
+   abazekal :: I'm finna run
