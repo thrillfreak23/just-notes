@@ -1,17 +1,3 @@
+* this is todo.norg
 
-@document.meta
-title: Daily Journal %DATE%
-description: Personal daily logs
-authors: rachel
-categories: [journal, daily]
-created: %DATE%
-version: 1.0.0
-@end
-
-tags: #journal #daily
-
-* Daily Journal: %DATE%
-
-** 🎯 Tasks
-   - ( ) make sure no pigs will die today
-
+** ( ) this is a todo
