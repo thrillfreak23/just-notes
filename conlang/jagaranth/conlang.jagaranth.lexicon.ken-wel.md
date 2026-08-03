@@ -2,7 +2,7 @@
 id: ik2l5xr3mspml1744gdz5tr
 title: ken...wel
 desc: ken...wel :: relative clause hedge marker
-updated: 2026 Aug 03 - 16:56:55
+updated: 2026 Aug 03 - 17:03:25
 created: 2026 Aug 03 - 07:13:09
 ---
 # ken...wel
@@ -19,7 +19,9 @@ created: 2026 Aug 03 - 07:13:09
                city.Locative corpse.Adjective RelativeCloser
     - translation :: I smote to death the wild nightrunner that I saw in the dead city.
 
-### example :: 
+### example :: jed korodaleth, kenteth stabaleth rûthîm bor wel, threnem mamuthid ::
+    - parse :: already die.Finite.3rdSingularSapientSubject RelativeOpener.3rdSingularSapientPronoun \
+    stand.Finite.3rdSgSapientSubject
 
 ## how to :: 
     - when suffixed to ken, a personal pronoun becomes a relative pronoun
