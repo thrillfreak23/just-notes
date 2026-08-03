@@ -7,10 +7,13 @@ created: 2026 May 18 - 21:49:56
 ---
 
 # kek
-- verbal root :: strike, hit, smite 
-- example :: âr-kekalem-tat vêgorotech ::
-- parse :: ToCompletion-smite.FIN.1sg wolf.Accusative.unowned
-- translation :: I killed the wild wolf.
-- valency :: transitive :: agent=subject=nominative. patient=object=accusative.
+: verbal root :: strike, hit, smite 
+- 
+
+### valency :: transitive :: agent=subject=nominative. patient=object=accusative.
+
+### example :: âr-kekalem-tat vêgorotech ::
+    - parse :: ToCompletion-smite.FIN.1SgSubject wolf.Accusative.Unowned
+    - translation :: I killed the wild wolf.
 
 

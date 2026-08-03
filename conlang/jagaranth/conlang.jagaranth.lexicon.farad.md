@@ -2,7 +2,7 @@
 id: z8r471sgvq7lfn4zrant16i
 title: farad
 desc: jagaranth lexicon entry
-updated: 2026 Aug 03 - 17:15:06
+updated: 2026 Aug 03 - 18:57:18
 created: 2026 Aug 03 - 17:13:41
 ---
 # farad
@@ -14,3 +14,4 @@ created: 2026 Aug 03 - 17:13:41
                + surface.Locative Yrth.Adjective
     - translation :: In that distant time, mammoths stood upon the surface of Terra.
 
+// hâhên
