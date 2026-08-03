@@ -9,4 +9,3 @@ created: 2026 Aug 03 - 16:09:25
 : Ablative case ending
 
 
-// [-ôdh](conlang.jagaranth.lexicon.-ôdh.md)
