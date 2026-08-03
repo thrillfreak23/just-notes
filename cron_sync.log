@@ -614,3 +614,30 @@ To github.com:thrillfreak23/just-notes.git
    2ab4c37..22a2e16  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+warning: adding embedded git repository: ma
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint: 	git submodule add <url> ma
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint: 	git rm --cached ma
+hint:
+hint: See "git help submodule" for more information.
+hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+[main 1b84c11] automated notes update
+ 6 files changed, 172 insertions(+), 5 deletions(-)
+ create mode 100644 conlang/jagaranth/conlang.jagaranth.personal-endings.md
+ create mode 100644 conlang/jagaranth/daily.2026.Aug-03.md
+ create mode 100644 conlang/jagaranth/newtest.junk.md
+ create mode 160000 ma
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   d6140c2..1b84c11  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
