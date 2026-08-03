@@ -641,3 +641,13 @@ To github.com:thrillfreak23/just-notes.git
    d6140c2..1b84c11  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main db8e614] automated notes update
+ 5 files changed, 80 insertions(+), 6 deletions(-)
+ rename conlang/jagaranth/conlang.jagaranth.lexicon.Jarthax.md => "conlang/jagaranth/conlang.jagaranth.lexicon.J\303\242rthax.md" (59%)
+ create mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.h\303\264ken.md"
+ create mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.jothor.md
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   1b84c11..db8e614  main -> main
+✅ All notes are safe on GitHub!
