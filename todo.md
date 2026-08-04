@@ -9,5 +9,6 @@
 
 - [X] changed -al FINITE verbal ending back to -âl
 
+- [ ] the martian non-yes-no question is emphasized with a quick spike is pitch and volume in the first and last words of the clause.
 
 

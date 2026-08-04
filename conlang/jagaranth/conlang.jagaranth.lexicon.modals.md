@@ -47,7 +47,36 @@ need to
     - jûjor kush jûkâleps jizixot meth foifirot ?? 
     - You wanna do meth or cocaine?
 
++ example:
+>       lîz tezh jûkâlem foifirûrotech ??
+>       parse of foifirûrotech :: cocaine.Genitive.Accusative.Unowned
+>       Where might I partake of illicit cocaine?
+
 - example:
-    - lîz tezh jûkâlem 
+    - benbor korodâleps ::
+        - Thou shalt not kill.
+
+lot
+: insapient interrogative pronoun :: what object ? which?
+: lot :: l- + -ot (from tot :: ens, entity, specimen, object)
+: which? what (one)? :: 
+
+lûn
+: sapient interrogative pronoun :: who?
+: lûn :: l- + -ûn :: special suffix meaning "a sapient"
+: lûn :: who?
+
+tîz :: nominal :: a place, a location
+tûb :: nominal :: a time, an instance or season
+tom :: nominal :: a destination
+tast :: nominal :: a source, an origin
+tûr :: nominal :: a part of, portion of
+teg :: nominal :: a companion
+tej :: nominal :: a thing lacking or missing
+tot :: nominal :: an ***ens*** or entity; an object, a thing, an entity, an exemplar or specimen
+
+tikîz :: adverbial :: at this place; ***here***
+tikûb :: adverbial :: at this time; ***now***
+tikot :: nominal :: this object or thing or specimen
 
 
