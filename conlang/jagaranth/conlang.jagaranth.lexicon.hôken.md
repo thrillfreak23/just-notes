@@ -2,11 +2,12 @@
 id: aar74o2guk0gkjqjto8mh4f
 title: hôken
 desc: Jagaranth :: hôken :: smoke
-updated: 2026 Aug 03 - 15:01:17
+updated: 2026 Aug 03 - 19:12:55
 created: 2026 Aug 03 - 14:57:53
 ---
 # hôken
 : nominal :: smoke (from fire)
+-
 
 - usage :: î hôkenîz jothor
 - parse :: BE smoke.Sg.Locative fire :: [^1]
