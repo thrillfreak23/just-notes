@@ -2,7 +2,7 @@
 id: 6n1mt9i73zo4nafh68su3gd
 title: -al
 desc: -al :: Finite verb marker :: creates finite verbs
-updated: 2026 Aug 03 - 09:42:01
+updated: 2026 Aug 04 - 07:34:24
 created: 2026 Aug 03 - 07:42:51
 ---
 # -al
