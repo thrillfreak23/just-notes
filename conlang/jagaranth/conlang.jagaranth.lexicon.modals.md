@@ -16,16 +16,19 @@ must
 wanna
 need to
 
-____ = wanna (Desire)
-____ = tryna (Attempt)
-____ = finna (Immediate Intent)
-____ = will (Future Certainty)
-____ = can (Physical Ability)
-____ = may (Permission)
-____ = must (Strict Obligation)
-____ = should (Recommendation/Advice)
-tezh = might (Possibility) :: tezhbor = might not (Negative Possibility)
-____ = must be (Logical Certainty based on evidence)
+|------------------------------------------------------|-------------------------------------------------|
+| kush = wanna (Desire)                                | gig = to not want                               |
+| blank = tryna (Attempt)                              | ASDF                                            |
+| jip = finna (Immediate Intent)                       | jipbor = ==why would you ever say this?==       |
+| AASDF                                                | asdf                                            |
+| blank = will (Future Certainty)                      | asdf                                            |
+| tên = can (Physical Ability)                         | tênbor = can't (Negative Physical Ability)      |
+| lich = may (Permission)                              | asdf = may not (Prohibition)                    |
+| kor = must (Strict Obligation)                       | ==reb== = must not (Strict Negative Obligation) |
+| blank = should (Recommendation/Advice)               | asdf                                            |
+| tezh = might (Possibility)                           | tezhbor = might not (Negative Possibility)      |
+| shen = must be (logical Certainty based on evidence) |                                                 |
+
 
 examples:
 tethot panâlem-sis, tezh âr-bârkexâlem 
