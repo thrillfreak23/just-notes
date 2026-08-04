@@ -2,7 +2,7 @@
 id: k9ocewso14imbfs95oq1oni
 title: Rorb
 desc: jagaranth lexicon :: Rorb
-updated: 2026 Aug 03 - 15:54:01
+updated: 2026 Aug 04 - 08:37:48
 created: 2026 Aug 03 - 15:46:03
 ---
 # Rorb
@@ -11,7 +11,9 @@ created: 2026 Aug 03 - 15:46:03
 - note :: Rorb is usually qualified by the Unpossessed/Celestial marker -ôn
 ## Rorbôn :: the Unpossessed Sun
  
-## Example :: thiktaxalos-tat veshem Rorbônast ::
-    - parse :: touch.PassiveParticipial.Finite.3SgInsapientSubject-Past
-      face.1SgSapientPossessor Sun.Unpossessed.Ablative
+- usage
+    - Example :: thiktaxalos-tat veshem Rorbônast ::
+    - parse :: `touch.PassiveParticipial.Finite.3SgInsapientSubject-Past
+               face.1SgSapientPossessor Sun.Unpossessed.Ablative`
     - translation :: My face was touched by the Unpossessed Sun.
+
