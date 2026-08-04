@@ -2,7 +2,7 @@
 id: 1wy30rtsd1o5b18resrfzdd
 title: teps
 desc: 
-updated: 2026 Aug 04 - 08:25:07
+updated: 2026 Aug 04 - 09:12:50
 created: 2026 May 18 - 22:13:22
 ---
 # teps 
@@ -14,5 +14,5 @@ created: 2026 May 18 - 22:13:22
 - -epsen :: agglutinating form
 
 - usage
-    - example :: jûjor gaktaleps ?? Do you dance?
+    - example :: jûjor gaktâleps ?? Do you dance?
 

@@ -2,7 +2,7 @@
 id: z8r471sgvq7lfn4zrant16i
 title: farad
 desc: jagaranth lexicon entry
-updated: 2026 Aug 04 - 07:38:09
+updated: 2026 Aug 04 - 09:08:09
 created: 2026 Aug 03 - 17:13:41
 ---
 # farad
@@ -10,7 +10,7 @@ created: 2026 Aug 03 - 17:13:41
 
 
 
-## tokûb stabalethen mamuthen faradîz Skârid
+## tokûb stabâlethen mamuthen faradîz Skârid
 
     - parse :: thatDistal.timeAdverbial stand.Finite.3rsPluralSapientSubject mammoth.plural \
                + surface.Locative Yrth.Adjective

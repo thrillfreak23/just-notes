@@ -2,7 +2,7 @@
 id: gc5xzfddhfmfcovehhjc8b4
 title: gakt
 desc: 
-updated: 2026 Aug 04 - 07:57:19
+updated: 2026 Aug 04 - 09:08:38
 created: 2026 May 18 - 22:08:21
 ---
 # gakt 
@@ -12,7 +12,7 @@ created: 2026 May 18 - 22:08:21
 - valency :: intransitive: S (nom) vb. transitive: S (nom) vb. O (acc)
 
 - usage
-- example :: jûjor gaktaleps-meg ??
+- example :: jûjor gaktâleps-meg ??
 - parse :: Question dance.Finite.2ndSgSubject-1SgComitativePronoun
 - translation :: Will you dance with me??
 

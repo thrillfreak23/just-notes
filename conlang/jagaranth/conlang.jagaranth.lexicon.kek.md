@@ -2,7 +2,7 @@
 id: tcs7rpjwqg3s1rzycaj2lmc
 title: kek
 desc: 
-updated: 2026 Aug 04 - 07:58:56
+updated: 2026 Aug 04 - 09:10:30
 created: 2026 May 18 - 21:49:56
 ---
 # kek
@@ -12,7 +12,7 @@ created: 2026 May 18 - 21:49:56
 - valency :: transitive :: agent=subject=nominative. patient=object=accusative.
 
 - usage
-    - example :: âr-kekalem-tat vêgorotech ::
+    - example :: âr-kekâlem-tat vêgorotech ::
     - parse :: ToCompletion-smite.FIN.1SgSubject wolf.Accusative.Unowned
     - translation :: I killed the wild wolf.
 
