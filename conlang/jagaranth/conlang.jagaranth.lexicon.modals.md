@@ -8,13 +8,6 @@ created: 2026 Aug 04 - 08:46:30
 
 # MODALS
 
-finna
-tryna
-gonna
-ought
-must
-wanna
-need to
 
 |------------------------------------------------------------|----------------------------------------------------------------|
 | :: kush :: = wanna (Desire)                                | :: gig :: = to not want (Negative Desire)                      |
