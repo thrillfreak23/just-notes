@@ -966,3 +966,140 @@ To github.com:thrillfreak23/just-notes.git
    40afab3..9b4ecea  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main 640a454] automated notes update
+ 130 files changed, 30 insertions(+), 1137 deletions(-)
+ rename conlang.jagaranth.lexicon.-ast.norg => conlang.jagaranth.lexicon.-ast.org (100%)
+ rename conlang.jagaranth.lexicon.-ech.norg => conlang.jagaranth.lexicon.-ech.org (100%)
+ rename conlang.jagaranth.lexicon.-meg.norg => conlang.jagaranth.lexicon.-meg.org (100%)
+ rename conlang.jagaranth.lexicon.-om.norg => conlang.jagaranth.lexicon.-om.org (100%)
+ rename conlang.jagaranth.lexicon.-um.norg => conlang.jagaranth.lexicon.-um.org (100%)
+ rename "conlang.jagaranth.lexicon.-\303\242l.norg" => "conlang.jagaranth.lexicon.-\303\242l.org" (100%)
+ rename "conlang.jagaranth.lexicon.-\303\252n.norg" => "conlang.jagaranth.lexicon.-\303\252n.org" (100%)
+ rename "conlang.jagaranth.lexicon.-\303\264n.norg" => "conlang.jagaranth.lexicon.-\303\264n.org" (100%)
+ rename "conlang.jagaranth.lexicon.J\303\242rthax.norg" => "conlang.jagaranth.lexicon.J\303\242rthax.org" (100%)
+ rename conlang.jagaranth.lexicon.borg.norg => conlang.jagaranth.lexicon.borg.org (100%)
+ rename conlang.jagaranth.lexicon.correlatives.norg => conlang.jagaranth.lexicon.correlatives.org (100%)
+ rename conlang.jagaranth.lexicon.farad.norg => conlang.jagaranth.lexicon.farad.org (100%)
+ rename conlang.jagaranth.lexicon.gakt.norg => conlang.jagaranth.lexicon.gakt.org (100%)
+ rename conlang.jagaranth.lexicon.homi.norg => conlang.jagaranth.lexicon.homi.org (100%)
+ rename conlang.jagaranth.lexicon.homin.norg => conlang.jagaranth.lexicon.homin.org (100%)
+ rename "conlang.jagaranth.lexicon.h\303\242h\303\252n.norg" => "conlang.jagaranth.lexicon.h\303\242h\303\252n.org" (100%)
+ rename "conlang.jagaranth.lexicon.h\303\264ken.norg" => "conlang.jagaranth.lexicon.h\303\264ken.org" (100%)
+ rename "conlang.jagaranth.lexicon.infinitive-\303\242r.norg" => "conlang.jagaranth.lexicon.infinitive-\303\242r.org" (100%)
+ rename conlang.jagaranth.lexicon.jothor.norg => conlang.jagaranth.lexicon.jothor.org (100%)
+ rename "conlang.jagaranth.lexicon.j\303\273jor.norg" => "conlang.jagaranth.lexicon.j\303\273jor.org" (100%)
+ rename conlang.jagaranth.lexicon.kark.norg => conlang.jagaranth.lexicon.kark.org (100%)
+ rename conlang.jagaranth.lexicon.kek.norg => conlang.jagaranth.lexicon.kek.org (100%)
+ rename conlang.jagaranth.lexicon.ken-wel.norg => conlang.jagaranth.lexicon.ken-wel.org (100%)
+ rename conlang.jagaranth.lexicon.korod.norg => conlang.jagaranth.lexicon.korod.org (100%)
+ rename conlang.jagaranth.lexicon.legendum.norg => conlang.jagaranth.lexicon.legendum.org (100%)
+ rename conlang.jagaranth.lexicon.low-canals-region.norg => conlang.jagaranth.lexicon.low-canals-region.org (100%)
+ rename conlang.jagaranth.lexicon.mamuth.norg => conlang.jagaranth.lexicon.mamuth.org (100%)
+ rename conlang.jagaranth.lexicon.meg.norg => conlang.jagaranth.lexicon.meg.org (100%)
+ rename conlang.jagaranth.lexicon.mem.norg => conlang.jagaranth.lexicon.mem.org (100%)
+ rename conlang.jagaranth.lexicon.modals.norg => conlang.jagaranth.lexicon.modals.org (100%)
+ rename conlang.jagaranth.lexicon.mohi.norg => conlang.jagaranth.lexicon.mohi.org (100%)
+ rename conlang.jagaranth.lexicon.personal-endings.norg => conlang.jagaranth.lexicon.personal-endings.org (100%)
+ rename conlang.jagaranth.lexicon.ranth.norg => conlang.jagaranth.lexicon.ranth.org (100%)
+ rename conlang.jagaranth.lexicon.rorb.norg => conlang.jagaranth.lexicon.rorb.org (100%)
+ rename conlang.jagaranth.lexicon.sin.norg => conlang.jagaranth.lexicon.sin.org (100%)
+ rename conlang.jagaranth.lexicon.sos.norg => conlang.jagaranth.lexicon.sos.org (100%)
+ rename conlang.jagaranth.lexicon.teps.norg => conlang.jagaranth.lexicon.teps.org (100%)
+ rename conlang.jagaranth.lexicon.teth.norg => conlang.jagaranth.lexicon.teth.org (100%)
+ rename conlang.jagaranth.lexicon.tezh.norg => conlang.jagaranth.lexicon.tezh.org (100%)
+ rename conlang.jagaranth.lexicon.thikt.norg => conlang.jagaranth.lexicon.thikt.org (100%)
+ rename conlang.jagaranth.lexicon.tod.norg => conlang.jagaranth.lexicon.tod.org (100%)
+ rename conlang.jagaranth.lexicon.tort.norg => conlang.jagaranth.lexicon.tort.org (100%)
+ rename conlang.jagaranth.lexicon.vor.norg => conlang.jagaranth.lexicon.vor.org (100%)
+ rename conlang.jagaranth.lexicon.welk.norg => conlang.jagaranth.lexicon.welk.org (100%)
+ rename conlang.jagaranth.lexicon.welkanth.norg => conlang.jagaranth.lexicon.welkanth.org (100%)
+ rename "conlang.jagaranth.lexicon.w\303\242haz.norg" => "conlang.jagaranth.lexicon.w\303\242haz.org" (100%)
+ rename conlang.jagaranth.lexicon.zazaz.norg => conlang.jagaranth.lexicon.zazaz.org (100%)
+ rename conlang.jagaranth.lexicon.zip.norg => conlang.jagaranth.lexicon.zip.org (100%)
+ rename "conlang.jagaranth.lexicon.\303\242r-.norg" => "conlang.jagaranth.lexicon.\303\242r-.org" (100%)
+ rename "conlang.jagaranth.lexicon.\303\273b.norg" => "conlang.jagaranth.lexicon.\303\273b.org" (100%)
+ rename conlang.jagaroth.dictionary.norg => conlang.jagaroth.dictionary.org (100%)
+ rename conlang.new-language.norg => conlang.new-language.org (100%)
+ rename conlang.raggo.norg => conlang.raggo.org (100%)
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-ast.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-ech.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-meg.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-om.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-othor.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.-um.md
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.-\303\242l.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.-\303\252n.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.-\303\264n.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.J\303\242rthax.md"
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.borg.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.correlatives
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.correlatives.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.farad.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.gakt.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.homi.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.homin.md
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.h\303\242h\303\252n.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.h\303\264ken.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.infinitive-\303\242r.md"
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.jothor.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.junkwordtrashthis.md
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.j\303\273jor.md"
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.kark.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.kek.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.ken-wel.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.korod.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.legendum.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.lothor.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.low-canals-region.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.mamuth.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.meg.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.mem.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.modals.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.mohi.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.personal-endings.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.ranth.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.rorb.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.sin.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.sos.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.teps.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.teth.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.tezh.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.thikt.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.tod.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.tort.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.welk.md
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.w\303\242haz.md"
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.zazaz.md
+ delete mode 100644 conlang/jagaranth/conlang.jagaranth.lexicon.zip.md
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.\303\242r-.md"
+ delete mode 100644 "conlang/jagaranth/conlang.jagaranth.lexicon.\303\273b.md"
+ delete mode 100644 conlang/jagaranth/daily.2026.Aug-03.md
+ delete mode 100644 conlang/jagaranth/fart.junk
+ delete mode 100644 conlang/jagaranth/index.norg
+ delete mode 100644 conlang/jagaranth/newtest.junk.md
+ rename index.norg => index.org (100%)
+ rename log.norg => log.org (100%)
+ rename natlang.latin.ovid.book1.norg => natlang.latin.ovid.book1.org (100%)
+ rename scratchpad.norg => scratchpad.org (100%)
+ rename tech.dwm.dwm-dot-desktop.norg => tech.dwm.dwm-dot-desktop.org (100%)
+ rename tech.emacs.dot-emacs.norg => tech.emacs.dot-emacs.org (100%)
+ rename tech.fish.config-dot-fish.norg => tech.fish.config-dot-fish.org (100%)
+ rename tech.git.initial-git-steps-howto-basics.norg => tech.git.initial-git-steps-howto-basics.org (100%)
+ rename tech.grub.reinstall-on-dual-boot-and-delete-partition.norg => tech.grub.reinstall-on-dual-boot-and-delete-partition.org (100%)
+ rename tech.kernel.boot-option-change.norg => tech.kernel.boot-option-change.org (100%)
+ rename tech.kitty.custom-config-lines.norg => tech.kitty.custom-config-lines.org (100%)
+ rename tech.nano.nanorc.norg => tech.nano.nanorc.org (100%)
+ rename tech.neovim.init-dot-lua.norg => tech.neovim.init-dot-lua.org (100%)
+ rename tech.niri.niri-dot-desktop.norg => tech.niri.niri-dot-desktop.org (100%)
+ rename tech.pipewire.best-way-to-start-pipeiwre.norg => tech.pipewire.best-way-to-start-pipeiwre.org (100%)
+ rename tech.ssh.git.authentication-steps-howto.norg => tech.ssh.git.authentication-steps-howto.org (100%)
+ rename tech.xfce.change-wallpaper-from-commandline.norg => tech.xfce.change-wallpaper-from-commandline.org (100%)
+ rename tech.xinit.dot-xinitrc.norg => tech.xinit.dot-xinitrc.org (100%)
+ rename todo.norg => todo.org (100%)
+ rename writing.norg => writing.org (100%)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   9b4ecea..640a454  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
