@@ -1,28 +1,27 @@
----
-id: 5kly34y3057x5gz7yi1umrs
-title: Correlatives
-desc: jagaranth lexicon correlatives
-updated: 2026 Aug 04 - 16:29:35
-created: 2026 Aug 04 - 16:24:02
----
-# CORRELATIVES
+@document.meta
+title: Jagaranth Correlatives
+description: jagaranth correlatives
+categories: [ conlang, grammar, jagaranth ]
+@end
 
-lot
-: insapient interrogative pronoun :: what object ? which?
-: lot :: l- + -ot (from tot :: ens, entity, specimen, object)
-: which? what (one)? :: 
+* CORRELATIVES
 
-lûn
-: sapient interrogative pronoun :: who?
-: lûn :: l- + -ûn :: special suffix meaning "a sapient"
-: lûn :: who?
+  $ lot
+  *insapient interrogative pronoun :: what object ? which?*
+  *lot :: l- + -ot (from tot :: ens, entity, specimen, object)*
+  *which? what (one)? ::* 
 
--ûn 
-: correlative suffix :: special suffix meaning "a sapient"
-: anomalous suffix in that there is no nominal decapitated to form -ûn
-: nor is -ûn usable as as independent word
+  $ lûn
+  *sapient interrogative pronoun :: who?*
+  *lûn :: l- + -ûn :: special suffix meaning "a sapient"*
+  *lûn :: who?*
 
-## CORRELATIVE NOMINALS
+  $ -ûn 
+  *correlative suffix :: special suffix meaning "a sapient"*
+  *anomalous suffix in that there is no nominal decapitated to form -ûn*
+  *nor is -ûn usable as as independent word*
+
+** CORRELATIVE NOMINALS
 tîz :: nominal :: a place, a location
 tûb :: nominal :: a time, an instance or season
 tom :: nominal :: a destination
@@ -30,13 +29,16 @@ tast :: nominal :: a source, an origin
 tûr :: nominal :: a part of, portion of
 teg :: nominal :: a companion
 tej :: nominal :: a thing lacking or missing
-tot :: nominal :: an ***ens*** or entity; an object, a thing, an entity, an exemplar or specimen
+tot :: nominal :: an /ens/ or entity; an object, a thing, an entity, an exemplar or specimen
 
-## CORRELATIVE ADVERBS
-tikîz :: adverbial :: at this place; ***here***
-tikûb :: adverbial :: at this time; ***now***
+** CORRELATIVE ADVERBS
+tikîz :: adverbial :: at this place; /here/
+tikûb :: adverbial :: at this time; /now/
 tikot :: nominal :: this object or thing or specimen
 ...
 
-tik tak tok tek + îz ûb om ast ûr eg oj ot
+** demonstratives + case endings and -ûb special /when/ ending
+** tik tak tok tek + îz ûb om ast ûr eg oj ot
+
+
 
