@@ -1,0 +1,16 @@
+@document.meta
+title: 
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+
+$ -meg
+*shortened enclitic form of memeg :: 1s.COMITATIVE*
+
+* usage
+** example :: jûjor gaktâleps-meg ??
+** parse :: Question dance.Finite.2ndSgSubject-1SgComitativePronoun
+** translation :: Will you dance with me??
+
+

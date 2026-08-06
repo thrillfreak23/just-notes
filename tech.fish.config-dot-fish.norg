@@ -18,7 +18,7 @@ tags: #fish #tech #dotfile
 Keep multiple copies.
 I read this file into here 2026-06-14.
 
-```
+  @code sh
 if status is-interactive
 # Commands to run in interactive sessions can go here
 
@@ -52,7 +52,7 @@ end
 
 
 end
-```
+@end
 ====
 
   2026-07-19
