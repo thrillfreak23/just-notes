@@ -1,0 +1,13 @@
+@document.meta
+title: thikt
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ thikt
+verbal root :: to touch
+===
+
+* Example :: thiktaxâlos-tat veshem Rorbônast ::
+**** parse :: touch.PassiveParticipial.Finite.3SgInsapientSubject-Past face.1SgSapientPossessor Sun.Unpossessed.Ablative
+**** translation :: My face was touched by the Unpossessed Sun.

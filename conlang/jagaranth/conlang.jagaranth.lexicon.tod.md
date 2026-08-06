@@ -8,6 +8,6 @@ created: 2026 Aug 03 - 06:48:27
 # tod
 : conjunction :: then :: consequence particle
 
-- example :: kafâlem-sin borgîn mûmbid korodâlem-tod
+- example :: kafâlem-sin borgên mûmbid korodâlem-tod
 - parse :: go.Finite.1SgSubject-If city.Dative corpse.Adjective die.Finite.1SgSubject-Then
 - translation :: If I go to the dead city, then I (will) die

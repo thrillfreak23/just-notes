@@ -13,7 +13,7 @@ pronoun :: 1stSg Nominative :: I
 
 - verbal subject prefixes :: -em, , emen (and -enem, -enemen, if you include the noun's plural marker as old grammars used to do)
 
-- see mot, mûr, mîn, mast, mom, meg, mej
+- see mot, mûr, mên, mast, mom, meg, mej
 
 
 
@@ -21,7 +21,7 @@ pronoun :: 1stSg Nominative :: I
 | mem  | nominative |
 | mot  | accusative |
 | mûr  | genitive   |
-| mîn  | dative     |
+| mên  | dative     |
 | mast | ablative   |
 | mom  | allative   |
 | meg  | comitative |

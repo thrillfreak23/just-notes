@@ -1,0 +1,11 @@
+@document.meta
+title: welk
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ welk
+nominal :: planet
+
+$ welkanth
+nominal :: all a stellar system's planets

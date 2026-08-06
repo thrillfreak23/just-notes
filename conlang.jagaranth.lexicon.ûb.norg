@@ -1,0 +1,53 @@
+@document.meta
+title: -ûb
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+
+$ -ûb :: combinative form of tûb :: TimeAdverbial
+
+
+$ tûb :: nominal :: season, instance, moment, occasion
+===
+$ tûbîz :: adverb :: at a/the time
+===
+- example: tûbîz mêmisor mûmisor-thor :: in a time of madness and death
+
+l- :: interrogative marker
+lûb :: at what time? when?
+tik :: demonstrative :: this (near speaker)
+tak :: demonstrative :: that (near interlocutor)
+tok :: demonstrative :: that one over yonder (from from both)
+
+tikûb :: at this time
+takûb :: at that time
+tokûb :: at that distant time
+
+$ vek 
+adjective :: other
+example :: vekûb :: at another time
+note :: *vek* often does not take the *-id* ending most ajectives do
+note also :: sometimes *vek* does take the *\-id* 
+
+$ vekid
+adjective :: other
+
+$ mêmis
+nominal :: madness
+===
+$ mûm
+nominal :: a corpse
+===
+$ -is
+nominal suffix :: forces abstract meaning
+example :: mûm + is *corpse + is* == "corpseness" = death
+===
+$ mûmis
+nominal :: death
+mûm *corpse* + \-is *abstracting nominal suffix*
+
+
+
+
+

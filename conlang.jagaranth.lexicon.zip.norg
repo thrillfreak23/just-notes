@@ -1,0 +1,25 @@
+@document.meta
+title: zip
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ zip
+number :: zero
+===
+
+#number #numeral
+
+* usage:
+**** as verbal root: *zipâl-* to sum to zero, to not exist
+****** example :: voveps zipâlos :: Your God does not exist.
+****** parse :: God.2ndSgPossessor zero.Finite.3rdSgInsapient
+
+
+****** example :: î zip voveps 
+****** translation :: Your god is nothing. Your god is a zero.
+
+****** example :: zipâlos voveps
+****** parse :: zero.Finite.3rsSgInsapientSubject God.2ndSgPossessor
+****** translation :: Your God does not exist.
+******* note :: the *\-os* says "Your God" is insapient and thus incapable of speech

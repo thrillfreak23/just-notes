@@ -1,0 +1,10 @@
+@document.meta
+title: welkanth
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ welkanth
+nominal :: the planets of a stellar system
+*welk* planet + *\-anth* collective
+in informal speeh, simply "*stellar system*", "*solar system*"

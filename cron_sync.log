@@ -900,3 +900,39 @@ To github.com:thrillfreak23/just-notes.git
    833e24b..c146210  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main 40afab3] automated notes update
+ 31 files changed, 293 insertions(+), 307 deletions(-)
+ delete mode 100644 "conlang.jagaranth.lexicon.J\303\242rthax.md"
+ create mode 100644 "conlang.jagaranth.lexicon.J\303\242rthax.norg"
+ delete mode 100644 conlang.jagaranth.lexicon.junkwordtrashthis.md
+ rename "conlang.jagaranth.lexicon.j\303\273jor.md" => "conlang.jagaranth.lexicon.j\303\273jor.norg" (58%)
+ rename conlang.jagaranth.lexicon.kark.md => conlang.jagaranth.lexicon.kark.norg (65%)
+ rename conlang.jagaranth.lexicon.kek.md => conlang.jagaranth.lexicon.kek.norg (64%)
+ rename conlang.jagaranth.lexicon.ken-wel.md => conlang.jagaranth.lexicon.ken-wel.norg (85%)
+ rename conlang.jagaranth.lexicon.korod.md => conlang.jagaranth.lexicon.korod.norg (58%)
+ delete mode 100644 conlang.jagaranth.lexicon.legendum.md
+ create mode 100644 conlang.jagaranth.lexicon.legendum.norg
+ delete mode 100644 conlang.jagaranth.lexicon.lothor.md
+ delete mode 100644 conlang.jagaranth.lexicon.low-canals-region.md
+ create mode 100644 conlang.jagaranth.lexicon.low-canals-region.norg
+ delete mode 100644 conlang.jagaranth.lexicon.mamuth.md
+ create mode 100644 conlang.jagaranth.lexicon.mamuth.norg
+ delete mode 100644 conlang.jagaranth.lexicon.meg.md
+ create mode 100644 conlang.jagaranth.lexicon.meg.norg
+ delete mode 100644 conlang.jagaranth.lexicon.mem.md
+ create mode 100644 conlang.jagaranth.lexicon.mem.norg
+ rename conlang.jagaranth.lexicon.modals.md => conlang.jagaranth.lexicon.modals.norg (73%)
+ delete mode 100644 conlang.jagaranth.lexicon.mohi.md
+ create mode 100644 conlang.jagaranth.lexicon.mohi.norg
+ rename conlang.jagaranth.lexicon.personal-endings.md => conlang.jagaranth.lexicon.personal-endings.norg (59%)
+ delete mode 100644 conlang.jagaranth.lexicon.ranth.md
+ create mode 100644 conlang.jagaranth.lexicon.ranth.norg
+ rename conlang.jagaranth.lexicon.rorb.md => conlang.jagaranth.lexicon.rorb.norg (61%)
+ rename conlang.jagaranth.lexicon.sin.md => conlang.jagaranth.lexicon.sin.norg (57%)
+ rename conlang.jagaranth.lexicon.sos.md => conlang.jagaranth.lexicon.sos.norg (100%)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   c146210..40afab3  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
