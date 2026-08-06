@@ -780,3 +780,12 @@ To github.com:thrillfreak23/just-notes.git
    9f3f2c3..0d0b8b5  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main 2f37815] automated notes update
+ 3 files changed, 23 insertions(+), 11 deletions(-)
+ create mode 100644 index.norg
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   0d0b8b5..2f37815  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
