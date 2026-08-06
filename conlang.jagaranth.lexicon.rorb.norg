@@ -1,15 +1,14 @@
----
-id: k9ocewso14imbfs95oq1oni
+@document.meta
 title: Rorb
-desc: jagaranth lexicon :: Rorb
-updated: 2026 Aug 04 - 09:05:22
-created: 2026 Aug 03 - 15:46:03
----
-# Rorb
-: proper nominal :: Sol :: Unpossessed/Celestial gender
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ Rorb
+proper nominal :: Sol :: Unpossessed/Celestial gender
 
 - note :: Rorb is usually qualified by the Unpossessed/Celestial marker -ôn
-## Rorbôn :: the Unpossessed Sun
+----- Rorbôn :: the Unpossessed Sun
  
 - usage
     - Example :: thiktaxâlos-tat veshem Rorbônast ::

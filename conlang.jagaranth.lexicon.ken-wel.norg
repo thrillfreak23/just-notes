@@ -1,17 +1,16 @@
----
-id: ik2l5xr3mspml1744gdz5tr
+@document.meta
 title: ken...wel
-desc: ken...wel :: relative clause hedge marker
-updated: 2026 Aug 04 - 09:10:55
-created: 2026 Aug 03 - 07:13:09
----
-# ken...wel
-: relative clause hedge marker
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ ken...wel
+relative clause hedge marker
 
 
 - note :: "hedge marker" here means a circumposition with 2 parts surrounding a relative clause
 
-## USAGE
+- USAGE
 
 - example :: âr-kekâlem-tat gîgôkotech kensosot panâlem-tat borgîz mûmbid wel ::
     - parse :: `ToCompletion-smite.Finite.1SgSubject-Past nightrunner.Accusative.unowned

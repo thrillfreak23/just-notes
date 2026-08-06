@@ -1,0 +1,15 @@
+@document.meta
+title: Jârthax
+description: jagaranth lexicon, milieu
+categories: [ conlang, lexicon, jagaranth, milieu ]
+@end
+
+$ Jârthax 
+nominal, proper name :: a small city of the Low-Canals Region
+
+{:conlang.jagaranth.lexicon.low-canals-region.norg:}[see Low-Canals Region
+
+- usage:
+    - example :: takûb stabazâlem-tat Jârthaxîzemen ::
+    - parse :: stand.ActiveParticipial.Finite.1stSingularSubject-PastTense Jârthax.Locative
+    - translation :: Then I lived in our Jârthax

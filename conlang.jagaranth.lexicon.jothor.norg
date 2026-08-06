@@ -1,13 +1,12 @@
----
-id: y6xkxyhiytitn9k1b9ozfpr
+@document.meta
 title: jothor
-desc: jagaranth lexicon :: jothor
-updated: 2026 Aug 03 - 15:56:45
-created: 2026 Aug 03 - 14:51:56
----
-# jothor
-: nominal :: fire
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
 
-- usage :: î [hôken](conlang.jagaranth.lexicon.hôken.md)îz jothor ::
+$ jothor
+nominal :: fire
+
+- usage :: î hôkenîz jothor ::
     - parse :: BE smoke.LocativeSg fire.NominativeSg
     - translation :: Where there's smoke, there's fire.

@@ -1,15 +1,14 @@
----
-id: pzz1imhofgt77tlu450ogk8
+@document.meta
 title: Modals
-desc: jagaranth lexicon's modals page
-updated: 2026 Aug 04 - 18:02:41
-created: 2026 Aug 04 - 08:46:30
----
-
-# MODALS
+description: jagaranth lexicon article
+categories: [ conlang, lexicon, grammar, article, jagaranth ]
+@end
 
 
-|------------------------------------------------------------|----------------------------------------------------------------|
+* MODALS
+
+
+|------------------------------------------------------------+----------------------------------------------------------------|
 | :: kush :: = wanna (Desire)                                | :: gig :: = to not want (Negative Desire)                      |
 | :: flar :: = tryna (Attempt)                               | :: flaribor :: trying not to (Attempt at Achieving a Negative) |
 | :: jip :: = finna (Immediate Intent)                       | :: jipibor :: about to take steps so smthg wont happen         |
@@ -20,14 +19,16 @@ created: 2026 Aug 04 - 08:46:30
 | :: dix :: = should (Recommendation/Advice)                 | :: dixibor :: should not (Informal Negative Obligation)        |
 | :: tezh :: = might (Possibility)                           | :: tezhbor :: might not (Negative Possibility)                 |
 | :: shen :: = must be (logical Certainty based on evidence) | :: shenbor :: must not be (based on reason and evidence)       |
+|------------------------------------------------------------+----------------------------------------------------------------|
 
-## USAGE and EXAMPLES
-- example:
-    - tethot panâlem-sis, tezh âr-bârkexâlem [^1]
-        - parse :: 3rdSgSentiantPronoun.Accusative see.Finite.1stSgSentientSubject, MightModal ToCompletion-gun.Applicative.Finite.!stSgSentientSubject
-        - translation :: If I see him, I might shoot him dead.
+** USAGE and EXAMPLES
+   - example:
+        - tethot panâlem-sis, tezh âr-bârkexâlem {^ footnote}[see footnote]
+            - parse :: 3rdSgSentiantPronoun.Accusative see.Finite.1stSgSentientSubject, MightModal ToCompletion-gun.Applicative.Finite.!stSgSentientSubject
+            - translation :: If I see him, I might shoot him dead.
 
-[^1]: note the object ***tethot*** need not be expressed in the followup clause bc occurring first it is emphasized and remains in mind
+^ footnote 
+the object *tethot* need not be expressed in the followup clause bc occurring first it is emphasized and remains in mind
 
 - example:
     - ___kush gaktâlem tetheg___

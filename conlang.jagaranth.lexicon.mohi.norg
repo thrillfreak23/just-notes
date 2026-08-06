@@ -1,0 +1,12 @@
+@document.meta
+title: mohi
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ mohi
+nominal :: anomalous variant of homin
+
+{:conlang.jagaranth.lexicon.homin:}[see homin]
+
+

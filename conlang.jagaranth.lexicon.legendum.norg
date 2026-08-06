@@ -1,0 +1,24 @@
+@document.meta
+title: Legendum
+description: jagaranth lexicon legend
+categories: [ conlang, lexicon, jagaranth, legend ]
+@end
+
+
+* Abbreviations:
+- In this Lexicon, in the parses, everything is to be spelled out and self-evident.
+- An abbreviation which is unintelligible, should be regarded as a defect and emended.
+- Ergo, there is no legend of abbreviations.
+
+* GENERAL NOTES:
+
+** In the parse, a noun lacking case is nominative because the expression of the nominative is zero.
+    
+   EXAMPLE of how to do it
+
+   -- example: î hôkenîz jothor :: 
+   ---- parse and translation :: BE smoke.Locative fire :: Where there's smoke, there's fire.
+   ---- note :: in this example the noun for fire, which lacks case, is **jothor** and is nominative singular
+
+
+

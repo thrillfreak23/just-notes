@@ -1,11 +1,12 @@
----
-id: rahoszp3as639k2cq3elazs
-title: Personal endings
-desc: verbal and nominal person endings FIXED
-updated: 2026 Aug 02 - 13:01:59
-created: 2026 Aug 01 - 16:44:31
----
+@document.meta
+title: Personal Endings
+description: jagaranth lexicon article
+categories: [ conlang, lexicon, jagaranth ]
+@end
 
+* Personal Endings
+
+**** Some obsolete stuff
 1. keep verbs like they are
 2. change one of the endings in nouns to -i
 
@@ -41,16 +42,14 @@ nominal possessor markers with nominal plurals
 | -osi    | singular nominal - 3p Insapient possessor |
 | -enosi  | plural nominal   - 3p Sapient possessor   |
 |---------|-------------------------------------------|
-
-alternatively ***and officially!!!:***
-
-nominal possessor markers, with singular and plural illustrated
-VERSION 2
-
-| col1 | col2 |
+=====
 
 
-| -------- | --------------------------------------------------------- |
+** Nominal Possessor Markers, with singular and plural illustrated
+
+
+
+|----------+-----------------------------------------------------------|
 | em       | singular nominal  1st person singular possessor           |
 | en.em    | plural nominal    1st person singular possessor           |
 | emen     | singular nominal  1st person plural possessor             |
@@ -67,38 +66,44 @@ VERSION 2
 | en.os    | plural nominal    3rd person Insapient singular possessor |
 | osen     | singular nominal  3rd person Insapient plural possessor   |
 | en.osen  | plural nominal    3rd person Insapient plural possessor   |
+|----------+-----------------------------------------------------------|
 
 
 
 
 
-| marker | noun: sg or pl | possesor |
-| ------ | -------------- | -------- |
-| em | sing. | 1st person sing. |
-| en.em | pl. | 1st person sing. |
-| emen | sing. | 1st person pl. |
-| en.emen | pl. | 1st person pl. |
-| eps | sing. | 2nd person sing. |
-| en.eps | pl. | 2nd person sing. |
-| epsen | sing. | 2nd person pl. |
-| en.epsen | pl. | 2nd person pl. |
-| eth | sing. | 3rd person Sapient sing. |
-| en.eth | pl. | 3rd person Sapient sing. |
-| ethen | sing. | 3rd person Sapient pl. |
-| en.ethen | pl. | 3rd person Sapient pl. |
-| os | sing. | 3rd person Insapient sing. |
-| en.os | pl. | 3rd person Insapient sing. |
-| osen | sing. | 3rd person Insapient pl. |
-| en.osen | pl. | 3rd person Insapient pl. |
-| ôn | sing. | 3rd person Celestial sing. |
-| en.ôn | pl. | 3rd person Celestial sing. |
-| ônen | sing. | 3rd person Celestial pl. |
-| en.ônen | pl. | 3rd person Celestial pl. |
+|----------+------------------------+----------------------------|
+| marker   | noun: sg or pl         | possesor                   |
+|----------+------------------------+----------------------------|
+| em       | sing.                  | 1st person sing.           |
+| en.em    | pl.                    | 1st person sing.           |
+| emen     | sing.                  | 1st person pl.             |
+| en.emen  | pl.                    | 1st person pl.             |
+| eps      | sing.                  | 2nd person sing.           |
+| en.eps   | pl.                    | 2nd person sing.           |
+| epsen    | sing.                  | 2nd person pl.             |
+| en.epsen | pl.                    | 2nd person pl.             |
+| eth      | sing.                  | 3rd person Sapient sing.   |
+| en.eth   | pl.                    | 3rd person Sapient sing.   |
+| ethen    | sing.                  | 3rd person Sapient pl.     |
+| en.ethen | pl.                    | 3rd person Sapient pl.     |
+| os       | sing.                  | 3rd person Insapient sing. |
+| en.os    | pl.                    | 3rd person Insapient sing. |
+| osen     | sing.                  | 3rd person Insapient pl.   |
+| en.osen  | pl.                    | 3rd person Insapient pl.   |
+| ôn       | sing.                  | 3rd person Celestial sing. |
+| en.ôn    | pl.                    | 3rd person Celestial sing. |
+| ônen     | sing.                  | 3rd person Celestial pl.   |
+| en.ônen  | pl.                    | 3rd person Celestial pl.   |
+| ech      | sing.                  | 3rd person Unowned sg.     |
+| echen    | pl.                    | 3rd person Unowned pl.     |
+| en.ech   | pl. noun + sg. Unowned | 3rd person Unowned sg.     |
+| en.echen | pl. noun + pl. Unowned | 3rd person Unowned pl.     |
+|----------+------------------------+----------------------------|
 
 
 
-[^2]
-[^2]: 1st and 2nd person are not marked for gender
+1st and 2nd person are not marked for gender
 
 
 The first or the only element of the possessor fraction of the marker:
@@ -112,15 +117,16 @@ consider writing it in transliterated Jagarôth like so:
 - thiktâlÔn RorbÔn (see note below) veshotEm ::
 - touch.FIN.Unpossessed-singular sun.Unpossessed-singular face.Accusative.1s-possessor
 - The Sun touches my face.
+- nota bene: thought about it. don't want to do it
 
 
 
-## Rorbôn :: -ôn :: a new ending added to things for which the category *possessor* means nothing
--ôn :: the Unpossesed suffix :: the capitalized *U* is esential
+Rorbôn :: \-ôn :: a new ending added to things for which the category *possessor* means nothing
+\-ôn :: the Unpossesed suffix :: the capitalized *U* is esential
 :: Unpossessed :: example :: Rorbôn
 thiktâlÔn :: the Unpossessed is also called the Celestial gender
 the Celestial gender inheres to things that *shine* only:
--
+
 
 suns, moons, stars, planets, fire, meteors, bolides, lightning,
 lightning bugs, 

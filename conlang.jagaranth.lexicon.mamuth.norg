@@ -1,0 +1,14 @@
+@document.meta
+title: mamuth
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ mamuth
+nominal :: the Martian Mammoth
+
+- tokûb stabâlethen mamuthen [farad](conlang.jagaranth.lexicon.farad.md)îz Skârid
+    - parse :: thatDistal.timeAdverbial stand.Finite.3rsPluralSapientSubject mammoth.plural \
+               surface.Locative Yrth.Adjective
+    - translation :: In that distant time, mammoths stood upon the surface of Terra.
+
