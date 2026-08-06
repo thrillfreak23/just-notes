@@ -1,0 +1,17 @@
+@document.meta
+title: hâhên
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ hâhên
+*nominal :: rain*
+
+
+- valency :: Null subject :: hâhênâl + -ip [^ footnote]
+
+- usage :: hâhênâlip :: It's raining.
+- parse :: rain.Finite.NullSubject
+
+
+^ footnote : -ip is from *[zip](conlang.jagaranth.lexicon.zip.md)* zero.

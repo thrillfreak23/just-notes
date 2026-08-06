@@ -1,0 +1,15 @@
+@document.meta
+title: hôken
+description: jagaranth lexicon entry
+categories: [ conlang, lexicon, jagaranth ]
+@end
+
+$ hôken
+*nominal :: smoke (from fire)*
+
+
+- usage :: î hôkenîz jothor
+- parse :: BE smoke.Sg.Locative fire ::  {^ footnote}[see footnote]
+- translation :: Where there's smoke, there's fire.
+
+^ footnote : If a noun lacks a specified case in the parse, the noun is nominative.
