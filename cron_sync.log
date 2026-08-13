@@ -477,3 +477,11 @@ To github.com:thrillfreak23/just-notes.git
    38a3bdd..c524836  main -> main
 ✅ All notes are safe on GitHub!
 📦 Found changes! Backing up notes...
+[main 7f719dc] automated notes update
+ 1 file changed, 8 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:thrillfreak23/just-notes.git
+   c524836..7f719dc  main -> main
+✅ All notes are safe on GitHub!
+📦 Found changes! Backing up notes...
